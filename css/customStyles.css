@@ -13,6 +13,11 @@ article {
 	border-style: solid;
 }
 
+.project{
+	height: 20%;
+	width: 40%;
+}
+
 /* style for navbar */
 #mynav {
 	background-color: #00b3b3;
@@ -23,6 +28,7 @@ article {
 	max-height: 400px;
 	position: relative;
 }
+
 
 /* style for developer image */
 .img-circle {
