@@ -1,6 +1,6 @@
 /* importing fonts */
-@import url(http://weloveiconfonts.com/api/?family=brandico);
-@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+@import url(https://weloveiconfonts.com/api/?family=brandico);
+@import url(https://weloveiconfonts.com/api/?family=fontawesome);
 
 /* brandico */
 [class*="brandico-"]:before {
